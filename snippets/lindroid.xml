@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Lindroid additions -->
+	<project path="vendor/lindroid" name="duckyduckG/vendor_lindroid" revision="refs/heads/lindroid-23.1" />
+    <project path="vendor/lindroid-drm-loopback" name="duckyduckG/lindroid-drm-loopback" revision="refs/heads/master" />
+    <project path="external/lxc" name="duckyduckG/external_lxc" revision="refs/heads/lindroid-23.1" />
+    <project path="libhybris" name="duckyduckG/libhybris" revision="refs/heads/tmp-23.1" />
+ </manifest>
