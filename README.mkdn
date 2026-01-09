@@ -6,6 +6,10 @@ Getting started
 
 To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
+To initialize your local repository using the LineageOS trees and lindroid related repo's, use a command like this:
+```
+repo init -u https://github.com/duckyduckG/android.git -b lineage-23.1 --git-lfs
+```
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
 repo init -u https://github.com/LineageOS/android.git -b lineage-23.1 --git-lfs
